@@ -1,0 +1,19 @@
+*{
+    background-color: grey;
+}
+
+div{
+    background: navy;
+}
+
+img{
+    height: auto;
+    width: 400px;
+}
+
+.lasagna-text{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    background-color: black;
+}
